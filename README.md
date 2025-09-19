@@ -4,12 +4,13 @@
 **Category:** React/Next.js  
 **Type:** Utilities  
 
-![Random Password Generator](random password generator)
+![Random Password Generator](./public/password.png)
 
-## 📝 Description
+
+## Description
 Generate secure passwords with customizable options.
 
-## 📖 Full Description
+## Full Description
 The **Random Password Generator** is a React application that lets users generate secure passwords based on selected criteria such as length, uppercase letters, numbers, and symbols. It provides instant password generation with the option to copy results to the clipboard, making it practical for everyday use while demonstrating **state management, conditionals, and clipboard API handling**.
 
 - **Live Demo:** [Random Password Generator](https://random-password-generator-five-eta.vercel.app/)  
@@ -17,7 +18,7 @@ The **Random Password Generator** is a React application that lets users generat
 
 ---
 
-## 🔍 Overview
+## Overview
 A password generator built with React that allows customization and instant copy-to-clipboard functionality.
 
 ### Features
@@ -27,7 +28,7 @@ A password generator built with React that allows customization and instant copy
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
